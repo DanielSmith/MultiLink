@@ -1,0 +1,21 @@
+/*
+**	MultiLink.css
+*/
+
+body {
+	font-family: Arial, "MS Trebuchet", sans-serif;
+	background: #F5F5DC;
+}
+
+#mainContent {
+	margin: 50px;
+}
+
+.hideme {
+        display: none;
+}
+
+.multilink {
+	text-decoration: underline;
+    cursor: pointer;
+}
