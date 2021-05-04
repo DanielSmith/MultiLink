@@ -1,4 +1,7 @@
 
+### Historical only, this is deprecated.. will point at new project soon
+
+
 ## MultiLink - Links With Choice
 _Daniel Smith - javajoint at gmail dot com_
 _8 March 2012_
